@@ -1,0 +1,22 @@
+p {
+    color: turquoise;
+}
+
+div {
+    background-color: teal;
+    width: 50%;
+    height: 200px;
+}
+
+.demo {
+    background-color: violet;
+}
+
+.highlight {
+    font-style: italic;
+    color: rebeccapurple;
+}
+#p1{
+ font-style: italic; 
+ font-weight:bold;  
+}
